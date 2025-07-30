@@ -28,4 +28,4 @@ Excel
 **Contact:**
 
 For questions or replication of results:
-e-mail: juanp.cecchini@unraf.edu.ar 
+juanp.cecchini@unraf.edu.ar 
