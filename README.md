@@ -22,8 +22,10 @@
 * **Perfil de consumo JPC.XLSX** in this file are the Pujato Norte load profile data obtained from the local energy company. 
 
 **Requirements:**
+
 Excel
 
 **Contact:**
+
 For questions or replication of results:
 e-mail: juanp.cecchini@unraf.edu.ar 
